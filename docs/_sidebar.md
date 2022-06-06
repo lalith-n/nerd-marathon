@@ -1,14 +1,46 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Week1](/week1/)
-* [Week2](/week2/)
-* [Week3](/week3/)
-* [Week4](/week4/)
-* [Week5](/week5/)
-* [Week6](/week6/)
-* [Week7](/week7/)
-* [Week8](/week8/)
-* [Week9](/week9/)
-* [Week10](/week10/)
-* [Week11](/week11/)
+- **Week-1**
+    - [MeetAndGreet](/week1/meet-and-greet.md)
+    - [DareToDream](/week1/dare-to-dream.md)
+    - [HighLevelDesignBasics](/week1/high-level-design-basics.md)
+    - [LowLevelDesignBasics](/week1/low-level-design-basics.md)
+- **Week-2**
+    - [IntroductionToProblemSolving](/week2/introduction-to-problem-solving.md)
+    - [TimeComplexity-1](/week2/time-complexity-1.md)
+    - [TimeComplexity-2](/week2/time-complexity-2.md)
+- **Week-3**
+    - [IntroductionToArrays](/week3/introduction-to-arrays.md)
+    - [Arrays-PrefixSum](/week3/arrays-prefix-sum.md)
+- **Week-4**
+    - [Arrays-CarryForward](/week4/arrays-carry-forward.md)
+    - [Arrays-CarryForwardFollowUpSession](/week4/arrays-carry-forward-follow-up.md)
+    - [Arrays-SubArrays](/week4/arrays-sub-arrays.md)
+- **Week-5**
+    - [Arrays-SubArraysFollowUp](/week5/arrays-sub-arrays-follow-up.md)
+    - [Arrays-2D-Matrices](/week5/arrays-2d-matrices.md)
+    - [Arrays-InterviewProblems](/week5/arrays-interview-problems.md)
+- **Week-6**
+    - [Arrays-InterviewProblemsFollowUpSession](/week6/arrays-interview-problems-follow-up.md)
+    - [BitManipulations-1](/week6/bit-manipulations-1.md)
+    - [BitManipulations-2](/week6/bit-manipulations-2.md)
+- **Week-7**
+    - [BitManipulations-3](/week7/bit-manipulations-3.md)
+    - [Maths-ModularArithmeticIntroduction](/week7/maths-modular-arithmetic-introduction.md)
+    - [Arrays&Maths](/week7/arrays-and-maths.md)
+- **Week-8**
+    - [Sorting](/week8/sorting.md)
+    - [Strings](/week8/strings.md)
+- **Week-9**
+    - [Hashing](/week9/hashing.md)
+    - [Hashing-2](/week9/hashing-2.md)
+    - [Recursion-1](/week9/recursion-1.md)
+- **Week-10**
+    - [Recursion-2](/week10/recursion-2.md)
+    - [LinkedListBasics](/week10/linked-list-basics.md)
+    - [LinkedListBasicsFollowUp](/week10/linked-list-basics-follow-up.md)    
+- **Week-11**
+    - [StacksAndQueues-Basics](/week11/stacks-and-queues-basics.md)
+    - [TreesBasics-1](/week11/trees-basics-1.md)
+    - [TreesBasics-2](/week11/trees-basics-2.md)
+    - [SubSequences&SubSets](/week11/sub-sequences-and-sub-sets.md)    
