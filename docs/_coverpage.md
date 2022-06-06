@@ -2,5 +2,5 @@
 
 <!-- ![logo](_media/icon.svg) -->
 
-# nerd marathon <small>3.5</small>
-[Get Started](#vault-look-up)
+# nerd marathon <small>1.0</small>
+[Get Started](#NerdMarathon)
